@@ -61,7 +61,6 @@ Tanggal Praktikum: 03-11-2025
 | PATCH  | /api/products/:id     | Update sebagian produk     | 200 / 404       |
 | DELETE | /api/products/:id     | Hapus produk               | 200 / 404       |
 | GET    | /api/health           | Cek status API             | 200             |
-|-------------------------------------------------------------------------------|
 
 ## 6. Middleware
 
